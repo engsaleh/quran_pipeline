@@ -1,0 +1,1042 @@
+{
+  "summary": {
+    "generated_at": "2025-10-13T13:20:51.928893",
+    "version": "2.0.0",
+    "total_surahs": 114,
+    "total_verses": 6236,
+    "total_words": 78459,
+    "total_characters": 333051,
+    "meccan_surahs": 86,
+    "medinan_surahs": 28,
+    "average_verses_per_surah": 54.7,
+    "average_words_per_verse": 12.58
+  },
+  "surahs_detailed": [
+    {
+      "number": 1,
+      "name_arabic": "سُورَةُ ٱلْفَاتِحَةِ",
+      "name_english": "Al-Faatiha",
+      "revelation_type": "meccan",
+      "verses_count": 7,
+      "word_count": 29,
+      "character_count": 143
+    },
+    {
+      "number": 2,
+      "name_arabic": "سُورَةُ البَقَرَةِ",
+      "name_english": "Al-Baqara",
+      "revelation_type": "medinan",
+      "verses_count": 286,
+      "word_count": 6163,
+      "character_count": 26287
+    },
+    {
+      "number": 3,
+      "name_arabic": "سُورَةُ آلِ عِمۡرَانَ",
+      "name_english": "Aal-i-Imraan",
+      "revelation_type": "medinan",
+      "verses_count": 200,
+      "word_count": 3515,
+      "character_count": 15014
+    },
+    {
+      "number": 4,
+      "name_arabic": "سُورَةُ النِّسَاءِ",
+      "name_english": "An-Nisaa",
+      "revelation_type": "medinan",
+      "verses_count": 176,
+      "word_count": 3778,
+      "character_count": 16362
+    },
+    {
+      "number": 5,
+      "name_arabic": "سُورَةُ المَائـِدَةِ",
+      "name_english": "Al-Maaida",
+      "revelation_type": "medinan",
+      "verses_count": 120,
+      "word_count": 2849,
+      "character_count": 12233
+    },
+    {
+      "number": 6,
+      "name_arabic": "سُورَةُ الأَنۡعَامِ",
+      "name_english": "Al-An'aam",
+      "revelation_type": "meccan",
+      "verses_count": 165,
+      "word_count": 3069,
+      "character_count": 12754
+    },
+    {
+      "number": 7,
+      "name_arabic": "سُورَةُ الأَعۡرَافِ",
+      "name_english": "Al-A'raaf",
+      "revelation_type": "meccan",
+      "verses_count": 206,
+      "word_count": 3355,
+      "character_count": 14464
+    },
+    {
+      "number": 8,
+      "name_arabic": "سُورَةُ الأَنفَالِ",
+      "name_english": "Al-Anfaal",
+      "revelation_type": "medinan",
+      "verses_count": 75,
+      "word_count": 1249,
+      "character_count": 5409
+    },
+    {
+      "number": 9,
+      "name_arabic": "سُورَةُ التَّوۡبَةِ",
+      "name_english": "At-Tawba",
+      "revelation_type": "medinan",
+      "verses_count": 129,
+      "word_count": 2513,
+      "character_count": 11123
+    },
+    {
+      "number": 10,
+      "name_arabic": "سُورَةُ يُونُسَ",
+      "name_english": "Yunus",
+      "revelation_type": "meccan",
+      "verses_count": 109,
+      "word_count": 1848,
+      "character_count": 7613
+    },
+    {
+      "number": 11,
+      "name_arabic": "سُورَةُ هُودٍ",
+      "name_english": "Hud",
+      "revelation_type": "meccan",
+      "verses_count": 123,
+      "word_count": 1956,
+      "character_count": 7842
+    },
+    {
+      "number": 12,
+      "name_arabic": "سُورَةُ يُوسُفَ",
+      "name_english": "Yusuf",
+      "revelation_type": "meccan",
+      "verses_count": 111,
+      "word_count": 1804,
+      "character_count": 7331
+    },
+    {
+      "number": 13,
+      "name_arabic": "سُورَةُ الرَّعۡدِ",
+      "name_english": "Ar-Ra'd",
+      "revelation_type": "medinan",
+      "verses_count": 43,
+      "word_count": 861,
+      "character_count": 3568
+    },
+    {
+      "number": 14,
+      "name_arabic": "سُورَةُ إِبۡرَاهِيمَ",
+      "name_english": "Ibrahim",
+      "revelation_type": "meccan",
+      "verses_count": 52,
+      "word_count": 836,
+      "character_count": 3560
+    },
+    {
+      "number": 15,
+      "name_arabic": "سُورَةُ الحِجۡرِ",
+      "name_english": "Al-Hijr",
+      "revelation_type": "meccan",
+      "verses_count": 99,
+      "word_count": 662,
+      "character_count": 2902
+    },
+    {
+      "number": 16,
+      "name_arabic": "سُورَةُ النَّحۡلِ",
+      "name_english": "An-Nahl",
+      "revelation_type": "meccan",
+      "verses_count": 128,
+      "word_count": 1854,
+      "character_count": 7857
+    },
+    {
+      "number": 17,
+      "name_arabic": "سُورَةُ الإِسۡرَاءِ",
+      "name_english": "Al-Israa",
+      "revelation_type": "meccan",
+      "verses_count": 111,
+      "word_count": 1567,
+      "character_count": 6667
+    },
+    {
+      "number": 18,
+      "name_arabic": "سُورَةُ الكَهۡفِ",
+      "name_english": "Al-Kahf",
+      "revelation_type": "meccan",
+      "verses_count": 110,
+      "word_count": 1592,
+      "character_count": 6576
+    },
+    {
+      "number": 19,
+      "name_arabic": "سُورَةُ مَرۡيَمَ",
+      "name_english": "Maryam",
+      "revelation_type": "meccan",
+      "verses_count": 98,
+      "word_count": 978,
+      "character_count": 3957
+    },
+    {
+      "number": 20,
+      "name_arabic": "سُورَةُ طه",
+      "name_english": "Taa-Haa",
+      "revelation_type": "meccan",
+      "verses_count": 135,
+      "word_count": 1360,
+      "character_count": 5421
+    },
+    {
+      "number": 21,
+      "name_arabic": "سُورَةُ الأَنبِيَاءِ",
+      "name_english": "Al-Anbiyaa",
+      "revelation_type": "meccan",
+      "verses_count": 112,
+      "word_count": 1181,
+      "character_count": 5116
+    },
+    {
+      "number": 22,
+      "name_arabic": "سُورَةُ الحَجِّ",
+      "name_english": "Al-Hajj",
+      "revelation_type": "medinan",
+      "verses_count": 78,
+      "word_count": 1288,
+      "character_count": 5338
+    },
+    {
+      "number": 23,
+      "name_arabic": "سُورَةُ المُؤۡمِنُونَ",
+      "name_english": "Al-Muminoon",
+      "revelation_type": "meccan",
+      "verses_count": 118,
+      "word_count": 1058,
+      "character_count": 4504
+    },
+    {
+      "number": 24,
+      "name_arabic": "سُورَةُ النُّورِ",
+      "name_english": "An-Noor",
+      "revelation_type": "medinan",
+      "verses_count": 64,
+      "word_count": 1326,
+      "character_count": 5776
+    },
+    {
+      "number": 25,
+      "name_arabic": "سُورَةُ الفُرۡقَانِ",
+      "name_english": "Al-Furqaan",
+      "revelation_type": "meccan",
+      "verses_count": 77,
+      "word_count": 903,
+      "character_count": 3900
+    },
+    {
+      "number": 26,
+      "name_arabic": "سُورَةُ الشُّعَرَاءِ",
+      "name_english": "Ash-Shu'araa",
+      "revelation_type": "meccan",
+      "verses_count": 227,
+      "word_count": 1327,
+      "character_count": 5652
+    },
+    {
+      "number": 27,
+      "name_arabic": "سُورَةُ النَّمۡلِ",
+      "name_english": "An-Naml",
+      "revelation_type": "meccan",
+      "verses_count": 93,
+      "word_count": 1167,
+      "character_count": 4813
+    },
+    {
+      "number": 28,
+      "name_arabic": "سُورَةُ القَصَصِ",
+      "name_english": "Al-Qasas",
+      "revelation_type": "meccan",
+      "verses_count": 88,
+      "word_count": 1446,
+      "character_count": 5953
+    },
+    {
+      "number": 29,
+      "name_arabic": "سُورَةُ العَنكَبُوتِ",
+      "name_english": "Al-Ankaboot",
+      "revelation_type": "meccan",
+      "verses_count": 69,
+      "word_count": 984,
+      "character_count": 4338
+    },
+    {
+      "number": 30,
+      "name_arabic": "سُورَةُ الرُّومِ",
+      "name_english": "Ar-Room",
+      "revelation_type": "meccan",
+      "verses_count": 60,
+      "word_count": 823,
+      "character_count": 3493
+    },
+    {
+      "number": 31,
+      "name_arabic": "سُورَةُ لُقۡمَانَ",
+      "name_english": "Luqman",
+      "revelation_type": "meccan",
+      "verses_count": 34,
+      "word_count": 555,
+      "character_count": 2191
+    },
+    {
+      "number": 32,
+      "name_arabic": "سُورَةُ السَّجۡدَةِ",
+      "name_english": "As-Sajda",
+      "revelation_type": "meccan",
+      "verses_count": 30,
+      "word_count": 378,
+      "character_count": 1584
+    },
+    {
+      "number": 33,
+      "name_arabic": "سُورَةُ الأَحۡزَابِ",
+      "name_english": "Al-Ahzaab",
+      "revelation_type": "medinan",
+      "verses_count": 73,
+      "word_count": 1311,
+      "character_count": 5811
+    },
+    {
+      "number": 34,
+      "name_arabic": "سُورَةُ سَبَإٍ",
+      "name_english": "Saba",
+      "revelation_type": "meccan",
+      "verses_count": 54,
+      "word_count": 891,
+      "character_count": 3616
+    },
+    {
+      "number": 35,
+      "name_arabic": "سُورَةُ فَاطِرٍ",
+      "name_english": "Faatir",
+      "revelation_type": "meccan",
+      "verses_count": 45,
+      "word_count": 784,
+      "character_count": 3259
+    },
+    {
+      "number": 36,
+      "name_arabic": "سُورَةُ يسٓ",
+      "name_english": "Yaseen",
+      "revelation_type": "meccan",
+      "verses_count": 83,
+      "word_count": 736,
+      "character_count": 3089
+    },
+    {
+      "number": 37,
+      "name_arabic": "سُورَةُ الصَّافَّاتِ",
+      "name_english": "As-Saaffaat",
+      "revelation_type": "meccan",
+      "verses_count": 182,
+      "word_count": 872,
+      "character_count": 3921
+    },
+    {
+      "number": 38,
+      "name_arabic": "سُورَةُ صٓ",
+      "name_english": "Saad",
+      "revelation_type": "meccan",
+      "verses_count": 88,
+      "word_count": 742,
+      "character_count": 3087
+    },
+    {
+      "number": 39,
+      "name_arabic": "سُورَةُ الزُّمَرِ",
+      "name_english": "Az-Zumar",
+      "revelation_type": "meccan",
+      "verses_count": 75,
+      "word_count": 1184,
+      "character_count": 4891
+    },
+    {
+      "number": 40,
+      "name_arabic": "سُورَةُ غَافِرٍ",
+      "name_english": "Ghafir",
+      "revelation_type": "meccan",
+      "verses_count": 85,
+      "word_count": 1233,
+      "character_count": 5130
+    },
+    {
+      "number": 41,
+      "name_arabic": "سُورَةُ فُصِّلَتۡ",
+      "name_english": "Fussilat",
+      "revelation_type": "meccan",
+      "verses_count": 54,
+      "word_count": 802,
+      "character_count": 3388
+    },
+    {
+      "number": 42,
+      "name_arabic": "سُورَةُ الشُّورَىٰ",
+      "name_english": "Ash-Shura",
+      "revelation_type": "meccan",
+      "verses_count": 53,
+      "word_count": 867,
+      "character_count": 3544
+    },
+    {
+      "number": 43,
+      "name_arabic": "سُورَةُ الزُّخۡرُفِ",
+      "name_english": "Az-Zukhruf",
+      "revelation_type": "meccan",
+      "verses_count": 89,
+      "word_count": 842,
+      "character_count": 3630
+    },
+    {
+      "number": 44,
+      "name_arabic": "سُورَةُ الدُّخَانِ",
+      "name_english": "Ad-Dukhaan",
+      "revelation_type": "meccan",
+      "verses_count": 59,
+      "word_count": 351,
+      "character_count": 1494
+    },
+    {
+      "number": 45,
+      "name_arabic": "سُورَةُ الجَاثِيَةِ",
+      "name_english": "Al-Jaathiya",
+      "revelation_type": "meccan",
+      "verses_count": 37,
+      "word_count": 493,
+      "character_count": 2105
+    },
+    {
+      "number": 46,
+      "name_arabic": "سُورَةُ الأَحۡقَافِ",
+      "name_english": "Al-Ahqaf",
+      "revelation_type": "meccan",
+      "verses_count": 35,
+      "word_count": 650,
+      "character_count": 2687
+    },
+    {
+      "number": 47,
+      "name_arabic": "سُورَةُ مُحَمَّدٍ",
+      "name_english": "Muhammad",
+      "revelation_type": "medinan",
+      "verses_count": 38,
+      "word_count": 548,
+      "character_count": 2444
+    },
+    {
+      "number": 48,
+      "name_arabic": "سُورَةُ الفَتۡحِ",
+      "name_english": "Al-Fath",
+      "revelation_type": "medinan",
+      "verses_count": 29,
+      "word_count": 565,
+      "character_count": 2530
+    },
+    {
+      "number": 49,
+      "name_arabic": "سُورَةُ الحُجُرَاتِ",
+      "name_english": "Al-Hujuraat",
+      "revelation_type": "medinan",
+      "verses_count": 18,
+      "word_count": 358,
+      "character_count": 1553
+    },
+    {
+      "number": 50,
+      "name_arabic": "سُورَةُ قٓ",
+      "name_english": "Qaaf",
+      "revelation_type": "meccan",
+      "verses_count": 45,
+      "word_count": 378,
+      "character_count": 1527
+    },
+    {
+      "number": 51,
+      "name_arabic": "سُورَةُ الذَّارِيَاتِ",
+      "name_english": "Adh-Dhaariyat",
+      "revelation_type": "meccan",
+      "verses_count": 60,
+      "word_count": 365,
+      "character_count": 1566
+    },
+    {
+      "number": 52,
+      "name_arabic": "سُورَةُ الطُّورِ",
+      "name_english": "At-Tur",
+      "revelation_type": "meccan",
+      "verses_count": 49,
+      "word_count": 317,
+      "character_count": 1344
+    },
+    {
+      "number": 53,
+      "name_arabic": "سُورَةُ النَّجۡمِ",
+      "name_english": "An-Najm",
+      "revelation_type": "meccan",
+      "verses_count": 62,
+      "word_count": 366,
+      "character_count": 1454
+    },
+    {
+      "number": 54,
+      "name_arabic": "سُورَةُ القَمَرِ",
+      "name_english": "Al-Qamar",
+      "revelation_type": "meccan",
+      "verses_count": 55,
+      "word_count": 347,
+      "character_count": 1489
+    },
+    {
+      "number": 55,
+      "name_arabic": "سُورَةُ الرَّحۡمَٰن",
+      "name_english": "Ar-Rahmaan",
+      "revelation_type": "medinan",
+      "verses_count": 78,
+      "word_count": 356,
+      "character_count": 1666
+    },
+    {
+      "number": 56,
+      "name_arabic": "سُورَةُ الوَاقِعَةِ",
+      "name_english": "Al-Waaqia",
+      "revelation_type": "meccan",
+      "verses_count": 96,
+      "word_count": 384,
+      "character_count": 1776
+    },
+    {
+      "number": 57,
+      "name_arabic": "سُورَةُ الحَدِيدِ",
+      "name_english": "Al-Hadid",
+      "revelation_type": "medinan",
+      "verses_count": 29,
+      "word_count": 580,
+      "character_count": 2565
+    },
+    {
+      "number": 58,
+      "name_arabic": "سُورَةُ المُجَادلَةِ",
+      "name_english": "Al-Mujaadila",
+      "revelation_type": "medinan",
+      "verses_count": 22,
+      "word_count": 480,
+      "character_count": 2066
+    },
+    {
+      "number": 59,
+      "name_arabic": "سُورَةُ الحَشۡرِ",
+      "name_english": "Al-Hashr",
+      "revelation_type": "medinan",
+      "verses_count": 24,
+      "word_count": 452,
+      "character_count": 1990
+    },
+    {
+      "number": 60,
+      "name_arabic": "سُورَةُ المُمۡتَحنَةِ",
+      "name_english": "Al-Mumtahana",
+      "revelation_type": "medinan",
+      "verses_count": 13,
+      "word_count": 357,
+      "character_count": 1580
+    },
+    {
+      "number": 61,
+      "name_arabic": "سُورَةُ الصَّفِّ",
+      "name_english": "As-Saff",
+      "revelation_type": "medinan",
+      "verses_count": 14,
+      "word_count": 230,
+      "character_count": 985
+    },
+    {
+      "number": 62,
+      "name_arabic": "سُورَةُ الجُمُعَةِ",
+      "name_english": "Al-Jumu'a",
+      "revelation_type": "medinan",
+      "verses_count": 11,
+      "word_count": 181,
+      "character_count": 787
+    },
+    {
+      "number": 63,
+      "name_arabic": "سُورَةُ المُنَافِقُونَ",
+      "name_english": "Al-Munaafiqoon",
+      "revelation_type": "medinan",
+      "verses_count": 11,
+      "word_count": 186,
+      "character_count": 821
+    },
+    {
+      "number": 64,
+      "name_arabic": "سُورَةُ التَّغَابُنِ",
+      "name_english": "At-Taghaabun",
+      "revelation_type": "medinan",
+      "verses_count": 18,
+      "word_count": 246,
+      "character_count": 1110
+    },
+    {
+      "number": 65,
+      "name_arabic": "سُورَةُ الطَّلَاقِ",
+      "name_english": "At-Talaaq",
+      "revelation_type": "medinan",
+      "verses_count": 12,
+      "word_count": 293,
+      "character_count": 1222
+    },
+    {
+      "number": 66,
+      "name_arabic": "سُورَةُ التَّحۡرِيمِ",
+      "name_english": "At-Tahrim",
+      "revelation_type": "medinan",
+      "verses_count": 12,
+      "word_count": 258,
+      "character_count": 1124
+    },
+    {
+      "number": 67,
+      "name_arabic": "سُورَةُ المُلۡكِ",
+      "name_english": "Al-Mulk",
+      "revelation_type": "meccan",
+      "verses_count": 30,
+      "word_count": 337,
+      "character_count": 1366
+    },
+    {
+      "number": 68,
+      "name_arabic": "سُورَةُ القَلَمِ",
+      "name_english": "Al-Qalam",
+      "revelation_type": "meccan",
+      "verses_count": 52,
+      "word_count": 305,
+      "character_count": 1308
+    },
+    {
+      "number": 69,
+      "name_arabic": "سُورَةُ الحَاقَّةِ",
+      "name_english": "Al-Haaqqa",
+      "revelation_type": "meccan",
+      "verses_count": 52,
+      "word_count": 264,
+      "character_count": 1152
+    },
+    {
+      "number": 70,
+      "name_arabic": "سُورَةُ المَعَارِجِ",
+      "name_english": "Al-Ma'aarij",
+      "revelation_type": "meccan",
+      "verses_count": 44,
+      "word_count": 222,
+      "character_count": 991
+    },
+    {
+      "number": 71,
+      "name_arabic": "سُورَةُ نُوحٍ",
+      "name_english": "Nooh",
+      "revelation_type": "meccan",
+      "verses_count": 28,
+      "word_count": 231,
+      "character_count": 984
+    },
+    {
+      "number": 72,
+      "name_arabic": "سُورَةُ الجِنِّ",
+      "name_english": "Al-Jinn",
+      "revelation_type": "meccan",
+      "verses_count": 28,
+      "word_count": 290,
+      "character_count": 1128
+    },
+    {
+      "number": 73,
+      "name_arabic": "سُورَةُ المُزَّمِّلِ",
+      "name_english": "Al-Muzzammil",
+      "revelation_type": "meccan",
+      "verses_count": 20,
+      "word_count": 205,
+      "character_count": 874
+    },
+    {
+      "number": 74,
+      "name_arabic": "سُورَةُ المُدَّثِّرِ",
+      "name_english": "Al-Muddaththir",
+      "revelation_type": "meccan",
+      "verses_count": 56,
+      "word_count": 260,
+      "character_count": 1054
+    },
+    {
+      "number": 75,
+      "name_arabic": "سُورَةُ القِيَامَةِ",
+      "name_english": "Al-Qiyaama",
+      "revelation_type": "meccan",
+      "verses_count": 40,
+      "word_count": 168,
+      "character_count": 695
+    },
+    {
+      "number": 76,
+      "name_arabic": "سُورَةُ الإِنسَانِ",
+      "name_english": "Al-Insaan",
+      "revelation_type": "medinan",
+      "verses_count": 31,
+      "word_count": 248,
+      "character_count": 1107
+    },
+    {
+      "number": 77,
+      "name_arabic": "سُورَةُ المُرۡسَلَاتِ",
+      "name_english": "Al-Mursalaat",
+      "revelation_type": "meccan",
+      "verses_count": 50,
+      "word_count": 185,
+      "character_count": 860
+    },
+    {
+      "number": 78,
+      "name_arabic": "سُورَةُ النَّبَإِ",
+      "name_english": "An-Naba",
+      "revelation_type": "meccan",
+      "verses_count": 40,
+      "word_count": 178,
+      "character_count": 815
+    },
+    {
+      "number": 79,
+      "name_arabic": "سُورَةُ النَّازِعَاتِ",
+      "name_english": "An-Naazi'aat",
+      "revelation_type": "meccan",
+      "verses_count": 46,
+      "word_count": 183,
+      "character_count": 804
+    },
+    {
+      "number": 80,
+      "name_arabic": "سُورَةُ عَبَسَ",
+      "name_english": "Abasa",
+      "revelation_type": "meccan",
+      "verses_count": 42,
+      "word_count": 137,
+      "character_count": 571
+    },
+    {
+      "number": 81,
+      "name_arabic": "سُورَةُ التَّكۡوِيرِ",
+      "name_english": "At-Takwir",
+      "revelation_type": "meccan",
+      "verses_count": 29,
+      "word_count": 108,
+      "character_count": 454
+    },
+    {
+      "number": 82,
+      "name_arabic": "سُورَةُ الانفِطَارِ",
+      "name_english": "Al-Infitaar",
+      "revelation_type": "meccan",
+      "verses_count": 19,
+      "word_count": 85,
+      "character_count": 352
+    },
+    {
+      "number": 83,
+      "name_arabic": "سُورَةُ المُطَفِّفِينَ",
+      "name_english": "Al-Mutaffifin",
+      "revelation_type": "meccan",
+      "verses_count": 36,
+      "word_count": 173,
+      "character_count": 769
+    },
+    {
+      "number": 84,
+      "name_arabic": "سُورَةُ الانشِقَاقِ",
+      "name_english": "Al-Inshiqaaq",
+      "revelation_type": "meccan",
+      "verses_count": 25,
+      "word_count": 113,
+      "character_count": 465
+    },
+    {
+      "number": 85,
+      "name_arabic": "سُورَةُ البُرُوجِ",
+      "name_english": "Al-Burooj",
+      "revelation_type": "meccan",
+      "verses_count": 22,
+      "word_count": 113,
+      "character_count": 488
+    },
+    {
+      "number": 86,
+      "name_arabic": "سُورَةُ الطَّارِقِ",
+      "name_english": "At-Taariq",
+      "revelation_type": "meccan",
+      "verses_count": 17,
+      "word_count": 65,
+      "character_count": 273
+    },
+    {
+      "number": 87,
+      "name_arabic": "سُورَةُ الأَعۡلَىٰ",
+      "name_english": "Al-A'laa",
+      "revelation_type": "meccan",
+      "verses_count": 19,
+      "word_count": 76,
+      "character_count": 315
+    },
+    {
+      "number": 88,
+      "name_arabic": "سُورَةُ الغَاشِيَةِ",
+      "name_english": "Al-Ghaashiya",
+      "revelation_type": "meccan",
+      "verses_count": 26,
+      "word_count": 96,
+      "character_count": 401
+    },
+    {
+      "number": 89,
+      "name_arabic": "سُورَةُ الفَجۡرِ",
+      "name_english": "Al-Fajr",
+      "revelation_type": "meccan",
+      "verses_count": 30,
+      "word_count": 143,
+      "character_count": 603
+    },
+    {
+      "number": 90,
+      "name_arabic": "سُورَةُ البَلَدِ",
+      "name_english": "Al-Balad",
+      "revelation_type": "meccan",
+      "verses_count": 20,
+      "word_count": 86,
+      "character_count": 361
+    },
+    {
+      "number": 91,
+      "name_arabic": "سُورَةُ الشَّمۡسِ",
+      "name_english": "Ash-Shams",
+      "revelation_type": "meccan",
+      "verses_count": 15,
+      "word_count": 58,
+      "character_count": 272
+    },
+    {
+      "number": 92,
+      "name_arabic": "سُورَةُ اللَّيۡلِ",
+      "name_english": "Al-Lail",
+      "revelation_type": "meccan",
+      "verses_count": 21,
+      "word_count": 75,
+      "character_count": 333
+    },
+    {
+      "number": 93,
+      "name_arabic": "سُورَةُ الضُّحَىٰ",
+      "name_english": "Ad-Dhuhaa",
+      "revelation_type": "meccan",
+      "verses_count": 11,
+      "word_count": 44,
+      "character_count": 184
+    },
+    {
+      "number": 94,
+      "name_arabic": "سُورَةُ الشَّرۡحِ",
+      "name_english": "Ash-Sharh",
+      "revelation_type": "meccan",
+      "verses_count": 8,
+      "word_count": 31,
+      "character_count": 121
+    },
+    {
+      "number": 95,
+      "name_arabic": "سُورَةُ التِّينِ",
+      "name_english": "At-Tin",
+      "revelation_type": "meccan",
+      "verses_count": 8,
+      "word_count": 38,
+      "character_count": 181
+    },
+    {
+      "number": 96,
+      "name_arabic": "سُورَةُ العَلَقِ",
+      "name_english": "Al-Alaq",
+      "revelation_type": "meccan",
+      "verses_count": 19,
+      "word_count": 77,
+      "character_count": 308
+    },
+    {
+      "number": 97,
+      "name_arabic": "سُورَةُ القَدۡرِ",
+      "name_english": "Al-Qadr",
+      "revelation_type": "meccan",
+      "verses_count": 5,
+      "word_count": 34,
+      "character_count": 134
+    },
+    {
+      "number": 98,
+      "name_arabic": "سُورَةُ البَيِّنَةِ",
+      "name_english": "Al-Bayyina",
+      "revelation_type": "medinan",
+      "verses_count": 8,
+      "word_count": 98,
+      "character_count": 423
+    },
+    {
+      "number": 99,
+      "name_arabic": "سُورَةُ الزَّلۡزَلَةِ",
+      "name_english": "Az-Zalzala",
+      "revelation_type": "medinan",
+      "verses_count": 8,
+      "word_count": 40,
+      "character_count": 177
+    },
+    {
+      "number": 100,
+      "name_arabic": "سُورَةُ العَادِيَاتِ",
+      "name_english": "Al-Aadiyaat",
+      "revelation_type": "meccan",
+      "verses_count": 11,
+      "word_count": 45,
+      "character_count": 189
+    },
+    {
+      "number": 101,
+      "name_arabic": "سُورَةُ القَارِعَةِ",
+      "name_english": "Al-Qaari'a",
+      "revelation_type": "meccan",
+      "verses_count": 11,
+      "word_count": 40,
+      "character_count": 179
+    },
+    {
+      "number": 102,
+      "name_arabic": "سُورَةُ التَّكَاثُرِ",
+      "name_english": "At-Takaathur",
+      "revelation_type": "meccan",
+      "verses_count": 8,
+      "word_count": 32,
+      "character_count": 142
+    },
+    {
+      "number": 103,
+      "name_arabic": "سُورَةُ العَصۡرِ",
+      "name_english": "Al-Asr",
+      "revelation_type": "meccan",
+      "verses_count": 3,
+      "word_count": 18,
+      "character_count": 92
+    },
+    {
+      "number": 104,
+      "name_arabic": "سُورَةُ الهُمَزَةِ",
+      "name_english": "Al-Humaza",
+      "revelation_type": "meccan",
+      "verses_count": 9,
+      "word_count": 37,
+      "character_count": 153
+    },
+    {
+      "number": 105,
+      "name_arabic": "سُورَةُ الفِيلِ",
+      "name_english": "Al-Fil",
+      "revelation_type": "meccan",
+      "verses_count": 5,
+      "word_count": 27,
+      "character_count": 116
+    },
+    {
+      "number": 106,
+      "name_arabic": "سُورَةُ قُرَيۡشٍ",
+      "name_english": "Quraish",
+      "revelation_type": "meccan",
+      "verses_count": 4,
+      "word_count": 21,
+      "character_count": 96
+    },
+    {
+      "number": 107,
+      "name_arabic": "سُورَةُ المَاعُونِ",
+      "name_english": "Al-Maa'un",
+      "revelation_type": "meccan",
+      "verses_count": 7,
+      "word_count": 29,
+      "character_count": 133
+    },
+    {
+      "number": 108,
+      "name_arabic": "سُورَةُ الكَوۡثَرِ",
+      "name_english": "Al-Kawthar",
+      "revelation_type": "meccan",
+      "verses_count": 3,
+      "word_count": 14,
+      "character_count": 62
+    },
+    {
+      "number": 109,
+      "name_arabic": "سُورَةُ الكَافِرُونَ",
+      "name_english": "Al-Kaafiroon",
+      "revelation_type": "meccan",
+      "verses_count": 6,
+      "word_count": 31,
+      "character_count": 118
+    },
+    {
+      "number": 110,
+      "name_arabic": "سُورَةُ النَّصۡرِ",
+      "name_english": "An-Nasr",
+      "revelation_type": "medinan",
+      "verses_count": 3,
+      "word_count": 23,
+      "character_count": 99
+    },
+    {
+      "number": 111,
+      "name_arabic": "سُورَةُ المَسَدِ",
+      "name_english": "Al-Masad",
+      "revelation_type": "meccan",
+      "verses_count": 5,
+      "word_count": 27,
+      "character_count": 100
+    },
+    {
+      "number": 112,
+      "name_arabic": "سُورَةُ الإِخۡلَاصِ",
+      "name_english": "Al-Ikhlaas",
+      "revelation_type": "meccan",
+      "verses_count": 4,
+      "word_count": 19,
+      "character_count": 66
+    },
+    {
+      "number": 113,
+      "name_arabic": "سُورَةُ الفَلَقِ",
+      "name_english": "Al-Falaq",
+      "revelation_type": "meccan",
+      "verses_count": 5,
+      "word_count": 27,
+      "character_count": 92
+    },
+    {
+      "number": 114,
+      "name_arabic": "سُورَةُ النَّاسِ",
+      "name_english": "An-Naas",
+      "revelation_type": "meccan",
+      "verses_count": 6,
+      "word_count": 24,
+      "character_count": 99
+    }
+  ]
+}

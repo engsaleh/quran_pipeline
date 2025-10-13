@@ -1,0 +1,78 @@
+2025-10-13 08:22:01,531 - DEBUG - Using proactor: IocpProactor
+2025-10-13 08:22:01,547 - INFO - Collecting Surah information...
+2025-10-13 08:22:01,547 - INFO - Attempting request to https://api.alquran.cloud/v1/surah (attempt 1/3)
+2025-10-13 08:22:02,665 - INFO - Successfully collected information for 114 Surahs
+2025-10-13 08:22:02,665 - INFO - Collecting simple verses...
+2025-10-13 08:22:02,673 - INFO - Attempting request to https://api.alquran.cloud/v1/quran/quran-simple (attempt 1/3)
+2025-10-13 08:22:08,758 - INFO - Successfully collected 6236 simple verses
+2025-10-13 08:22:08,758 - INFO - Collecting Uthmani verses...
+2025-10-13 08:22:08,774 - INFO - Attempting request to https://api.alquran.cloud/v1/quran/quran-uthmani (attempt 1/3)
+2025-10-13 08:22:14,816 - INFO - Successfully collected 6236 Uthmani verses
+2025-10-13 08:22:14,832 - INFO - Merging texts from different sources...
+2025-10-13 08:22:15,477 - INFO - Successfully merged 6236 verses
+2025-10-13 08:22:15,485 - INFO - Validating data completeness...
+2025-10-13 08:22:15,489 - INFO - ✓ Data is complete and correct
+2025-10-13 08:22:15,489 - INFO - Validating text quality...
+2025-10-13 08:22:15,497 - INFO - ✓ Text quality is excellent
+2025-10-13 08:22:15,578 - INFO - ✓ Database schema created successfully
+2025-10-13 08:22:15,578 - INFO - Saving data to database...
+2025-10-13 08:22:15,657 - INFO - ✓ Successfully saved 114 Surahs and 6236 verses to database
+2025-10-13 08:22:15,657 - INFO - Exporting data to JSON...
+2025-10-13 08:22:15,768 - INFO - ✓ Data exported to quran_output\quran_complete.json
+2025-10-13 08:22:15,840 - INFO - ✓ Simple version exported to quran_output\quran_simple.json
+2025-10-13 08:22:15,840 - INFO - Generating final statistics...
+2025-10-13 08:22:15,897 - INFO - ✓ Statistics generated in quran_output\quran_statistics.json
+2025-10-13 11:27:04 - QuranPipeline - INFO - HTTP session initialized
+2025-10-13 11:27:04 - QuranPipeline - INFO - Fetching Surah information...
+2025-10-13 11:27:04 - QuranPipeline - DEBUG - Request attempt 1/3: https://api.alquran.cloud/v1/surah
+2025-10-13 11:27:04 - QuranPipeline - INFO - Fetching verses for edition: quran-simple
+2025-10-13 11:27:04 - QuranPipeline - DEBUG - Request attempt 1/3: https://api.alquran.cloud/v1/quran/quran-simple
+2025-10-13 11:27:04 - QuranPipeline - INFO - Fetching verses for edition: quran-uthmani
+2025-10-13 11:27:04 - QuranPipeline - DEBUG - Request attempt 1/3: https://api.alquran.cloud/v1/quran/quran-uthmani
+2025-10-13 11:27:55 - QuranPipeline - WARNING - Client error on attempt 1: Response payload is not completed
+2025-10-13 11:27:55 - QuranPipeline - INFO - Retrying in 1s...
+2025-10-13 11:27:56 - QuranPipeline - WARNING - Client error on attempt 1: Response payload is not completed
+2025-10-13 11:27:56 - QuranPipeline - INFO - Retrying in 1s...
+2025-10-13 11:27:56 - QuranPipeline - DEBUG - Request attempt 2/3: https://api.alquran.cloud/v1/quran/quran-uthmani
+2025-10-13 11:27:57 - QuranPipeline - DEBUG - Request attempt 2/3: https://api.alquran.cloud/v1/quran/quran-simple
+2025-10-13 11:27:58 - QuranPipeline - INFO - Collected 114 surahs
+2025-10-13 11:28:17 - QuranPipeline - INFO - Collected 6236 verses
+2025-10-13 11:28:51 - QuranPipeline - INFO - Collected 6236 verses
+2025-10-13 11:28:51 - QuranPipeline - INFO - HTTP session closed
+2025-10-13 11:28:51 - QuranPipeline - INFO - Merging verse texts...
+2025-10-13 11:28:52 - QuranPipeline - INFO - Successfully merged 6236 verses
+2025-10-13 11:28:52 - QuranPipeline - INFO - Validating data completeness...
+2025-10-13 11:28:52 - QuranPipeline - INFO - ✓ Data completeness validated successfully
+2025-10-13 11:28:52 - QuranPipeline - INFO - Validating text quality...
+2025-10-13 11:28:52 - QuranPipeline - INFO - ✓ Text quality validated successfully
+2025-10-13 11:28:52 - QuranPipeline - INFO - Exporting to database: quran_output\quran_database.sqlite
+2025-10-13 11:28:52 - QuranPipeline - INFO - ✓ Exported 114 surahs and 6236 verses to database
+2025-10-13 11:28:52 - QuranPipeline - INFO - Exporting to JSON files...
+2025-10-13 11:28:52 - QuranPipeline - INFO - ✓ Complete data exported to quran_output\quran_complete.json
+2025-10-13 11:28:52 - QuranPipeline - INFO - ✓ Simple data exported to quran_output\quran_simple.json
+2025-10-13 11:28:52 - QuranPipeline - INFO - Generating statistics...
+2025-10-13 11:28:52 - QuranPipeline - INFO - ✓ Statistics exported to quran_output\quran_statistics.json
+2025-10-13 13:20:37 - QuranPipeline - INFO - HTTP session initialized
+2025-10-13 13:20:37 - QuranPipeline - INFO - Fetching Surah information...
+2025-10-13 13:20:37 - QuranPipeline - DEBUG - Request attempt 1/3: https://api.alquran.cloud/v1/surah
+2025-10-13 13:20:37 - QuranPipeline - INFO - Fetching verses for edition: quran-simple
+2025-10-13 13:20:37 - QuranPipeline - DEBUG - Request attempt 1/3: https://api.alquran.cloud/v1/quran/quran-simple
+2025-10-13 13:20:37 - QuranPipeline - INFO - Fetching verses for edition: quran-uthmani
+2025-10-13 13:20:37 - QuranPipeline - DEBUG - Request attempt 1/3: https://api.alquran.cloud/v1/quran/quran-uthmani
+2025-10-13 13:20:38 - QuranPipeline - INFO - Collected 114 surahs
+2025-10-13 13:20:45 - QuranPipeline - INFO - Collected 6236 verses
+2025-10-13 13:20:50 - QuranPipeline - INFO - Collected 6236 verses
+2025-10-13 13:20:50 - QuranPipeline - INFO - HTTP session closed
+2025-10-13 13:20:50 - QuranPipeline - INFO - Merging verse texts...
+2025-10-13 13:20:51 - QuranPipeline - INFO - Successfully merged 6236 verses
+2025-10-13 13:20:51 - QuranPipeline - INFO - Validating data completeness...
+2025-10-13 13:20:51 - QuranPipeline - INFO - ✓ Data completeness validated successfully
+2025-10-13 13:20:51 - QuranPipeline - INFO - Validating text quality...
+2025-10-13 13:20:51 - QuranPipeline - INFO - ✓ Text quality validated successfully
+2025-10-13 13:20:51 - QuranPipeline - INFO - Exporting to database: quran_output\quran_database.sqlite
+2025-10-13 13:20:51 - QuranPipeline - INFO - ✓ Exported 114 surahs and 6236 verses to database
+2025-10-13 13:20:51 - QuranPipeline - INFO - Exporting to JSON files...
+2025-10-13 13:20:51 - QuranPipeline - INFO - ✓ Complete data exported to quran_output\quran_complete.json
+2025-10-13 13:20:51 - QuranPipeline - INFO - ✓ Simple data exported to quran_output\quran_simple.json
+2025-10-13 13:20:51 - QuranPipeline - INFO - Generating statistics...
+2025-10-13 13:20:51 - QuranPipeline - INFO - ✓ Statistics exported to quran_output\quran_statistics.json

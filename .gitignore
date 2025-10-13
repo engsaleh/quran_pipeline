@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+.mypy_cache/
+.pytest_cache/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# مجلد البيئة الافتراضية
+venv/
+env/
+
+# ملفات أنظمة التشغيل الشائعة
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# ملفات IDEs (بيئات التطوير المتكاملة)
+.idea/ # IntelliJ IDEA / PyCharm
+.vscode/ # VS Code (إذا كنت لا تشارك إعدادات مساحة العمل)
+*.sublime-project
+*.sublime-workspace
