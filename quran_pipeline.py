@@ -3,7 +3,7 @@ Quran Data Processing Pipeline
 ===============================
 Professional system for collecting, processing, validating, and exporting Quran data.
 
-Author: [Your Name]
+Author: Ola SALEH
 Version: 2.0.0
 License: MIT
 """
