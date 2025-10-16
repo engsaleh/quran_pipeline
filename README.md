@@ -1,8 +1,8 @@
 # خط أنابيب معالجة بيانات القرآن الكريم
 تطبيق بايثون لجمع ومعالجة والتحقق من صحة وتصدير بيانات القرآن الكريم من واجهة برمجة التطبيقات من [Al Quran Cloud](https://alquran.cloud/api) مصمم بلغة بايثون لجمع البيانات القرآنية والتحقق من سلامتها وتوحيد تنسيقها وتصديرها بعدة صيغ.
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/خط%20أنابيب%20بيانات%20النصوص%20القرآنية.JPG?raw=true">
-    <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/خط%20أنابيب%20بيانات%20النصوص%20القرآنية.JPG?raw=true" alt="خط معالجة النصوص القرآنية" width="500"/>
+    <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/خط%20أنابيب%20بيانات%20النصوص%20القرآنية.JPG?raw=true" alt="خط معالجة النصوص القرآنية" width="700"/>
   </a>
 </div>
 
@@ -42,18 +42,10 @@
 ```bash
 python quran_pipeline.py
 ```
-يستغرق التنفيذ بعض الوقت وبعد الانتهااء تحصل على ملفات الخرج الموضحة في الصورة التالية:
-<div style="text-align: center;">
+يستغرق التنفيذ بعض الوقت وبعد الانتهاء يتم إنشاء مجلد الخرج quran_output/ وبداخله ملفات الخرج الموضحة في الصورة التالية:
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/مخرجات%20خط%20الأنابيب.JPG?raw=true">
-    <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/مخرجات%20خط%20الأنابيب.JPG?raw=true" alt="pipeline-output" width="500"/>
-  </a>
-</div>
-
-سيتم إنشاء مجلد الخرج quran_output/ الذي يحتوي على الملفات الموضحة بالصورة التالية:
-
-<div style="text-align: center;">
-  <a href="https://example.com/quran.png">
-    <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA%20%D8%AE%D8%B7%20%D8%A7%D9%84%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8.JPG?raw=true" alt="pipeline-output" width="600"/>
+    <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/مخرجات%20خط%20الأنابيب.JPG?raw=true" alt="pipeline-output" width="700"/>
   </a>
 </div>
 
