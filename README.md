@@ -1,9 +1,7 @@
 # خط أنابيب معالجة بيانات القرآن الكريم
 تطبيق بايثون لجمع ومعالجة والتحقق من صحة وتصدير بيانات القرآن الكريم من واجهة برمجة التطبيقات من [Al Quran Cloud](https://alquran.cloud/api) مصمم بلغة بايثون لجمع البيانات القرآنية والتحقق من سلامتها وتوحيد تنسيقها وتصديرها بعدة صيغ.
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/خط%20أنابيب%20بيانات%20النصوص%20القرآنية.JPG?raw=true">
     <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/خط%20أنابيب%20بيانات%20النصوص%20القرآنية.JPG?raw=true" alt="خط معالجة النصوص القرآنية" width="700"/>
-  </a>
 </div>
 
 ## الميزات الرئيسية
@@ -43,10 +41,8 @@
 python quran_pipeline.py
 ```
 يستغرق التنفيذ بعض الوقت وبعد الانتهاء يتم إنشاء مجلد الخرج quran_output/ وبداخله ملفات الخرج الموضحة في الصورة التالية:
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/مخرجات%20خط%20الأنابيب.JPG?raw=true">
-    <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/مخرجات%20خط%20الأنابيب.JPG?raw=true" alt="pipeline-output" width="700"/>
-  </a>
+<div>
+    <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/مخرجات%20خط%20الأنابيب.JPG?raw=true" alt="pipeline-output" width="700" style="display: flex; justify-content: center;" />
 </div>
 
 
