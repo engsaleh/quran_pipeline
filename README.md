@@ -1,7 +1,7 @@
 # خط أنابيب معالجة بيانات القرآن الكريم
 تطبيق بايثون لجمع ومعالجة والتحقق من صحة وتصدير بيانات القرآن الكريم من واجهة برمجة التطبيقات من [Al Quran Cloud](https://alquran.cloud/api) مصمم بلغة بايثون لجمع البيانات القرآنية والتحقق من سلامتها وتوحيد تنسيقها وتصديرها بعدة صيغ.
+<img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/%D8%AE%D8%B7%20%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA20%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%8A%D8%A9.JPG?raw=true" alt="خط معالجة النصوص القرآنية" width="500"/>
 
-![خط معالجة النصوص القرآنية](https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/%D8%AE%D8%B7%20%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%86%D8%B5%D9%88%D8%B5%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%D9%8A%D8%A9.JPG?raw=true)
 
 ## الميزات الرئيسية
 
@@ -47,8 +47,9 @@ python quran_pipeline.py
 * quran_statistics.json
 * quran_pipeline.log.
 
-![pipeline-output]([https://example.com/quran.png](https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA%20%D8%AE%D8%B7%20%D8%A7%D9%84%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8.JPG?raw=true))
-
+<a href="https://example.com/quran.png">
+  <img src="https://github.com/engsaleh/quran_pipeline/blob/main/SCREENSHOTS/%D9%85%D8%AE%D8%B1%D8%AC%D8%A7%D8%AA%20%D8%AE%D8%B7%20%D8%A7%D9%84%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8.JPG?raw=true" alt="pipeline-output" width="500"/>
+</a>
 ## الترخيص
 
 هذا المشروع مرخص بموجب رخصة MIT
