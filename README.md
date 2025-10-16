@@ -46,8 +46,11 @@ python quran_pipeline.py
 
 
 ## الترخيص
+ 
  المشروع مرخص بموجب رخصة MIT
-BY: OLA SALEH
+مطور من قبل OLA SALEH
+
+
 
 
 
