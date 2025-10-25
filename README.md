@@ -49,12 +49,11 @@
     ```
 
 
-إنشاء بيئة افتراضية (اختياري):
+
+إنشاء بيئة افتراضية:
     ```
     python -m venv venv
-    
     source venv/bin/activate  # على ويندوز: `venv\Scripts\activate`
-    
     ```
 
 تثبيت التبعيات:
