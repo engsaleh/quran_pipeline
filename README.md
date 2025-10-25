@@ -48,10 +48,13 @@
     cd quran-data-pipeline
     ```
 
+
 إنشاء بيئة افتراضية (اختياري):
     ```
     python -m venv venv
+    
     source venv/bin/activate  # على ويندوز: `venv\Scripts\activate`
+    
     ```
 
 تثبيت التبعيات:
