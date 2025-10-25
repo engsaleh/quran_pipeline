@@ -42,19 +42,19 @@
 
 ## التثبيت
 
-1. استنساخ المستودع:
+استنساخ المستودع:
     ```
     git clone https://github.com/اسم_المستخدم_الخاص_بك/quran-data-pipeline.git
     cd quran-data-pipeline
     ```
 
-2. إنشاء بيئة افتراضية (اختياري):
+إنشاء بيئة افتراضية (اختياري):
     ```
     python -m venv venv
     source venv/bin/activate  # على ويندوز: `venv\Scripts\activate`
     ```
 
-3. تثبيت التبعيات:
+تثبيت التبعيات:
     ```
     pip install -r requirements.txt
     ```
